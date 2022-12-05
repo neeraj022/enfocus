@@ -2,7 +2,7 @@
   (:refer-clojure :exclude [filter delay])
   (:require [enfocus.enlive.syntax :as en]
             [goog.net.XhrIo :as xhr]
-            [goog.dom.query :as query]
+            #_[goog.dom.query :as query]
             [goog.style :as style]
             [goog.events :as events]
             [goog.dom :as dom]

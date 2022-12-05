@@ -2,7 +2,7 @@
   (:require [enfocus.core :as ef]
             [goog.fx :as fx]
             [goog.fx.dom :as fx-dom]
-            [goog.dom.query :as query]
+            #_[goog.dom.query :as query]
             [goog.events :as events]
             [goog.style :as style]))
 
